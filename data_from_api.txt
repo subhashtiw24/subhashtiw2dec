@@ -2,7 +2,7 @@
 https://jsonplaceholder.typicode.com/users
 -- to display product ,price
 https://fakestoreapi.com/products/
-https://fakestoreapi.com/product/
+https://fakestoreapi.com/productss/
 
 https://openweathermap.org/
 https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
