@@ -1,0 +1,39 @@
+-- to display  user name, city ,mail id
+https://jsonplaceholder.typicode.com/users
+-- to display product ,price
+https://fakestoreapi.com/products/
+
+https://openweathermap.org/
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=72661ffab64a1aafda764b3cbfdf3ec3
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=72661ffab64a1aafda764b3cbfdf3ec3&units=metric
+https://openweathermap.org/img/wn/10n@4x.png
+----------------------------------------------------------------
+http://api.openweathermap.org/geo/1.0/zip?zip={zip code},{country code}&appid={API key}
+
+http://api.openweathermap.org/geo/1.0/zip?zip={zip code},{country code}&appid=72661ffab64a1aafda764b3cbfdf3ec3
+
+https://api.openweathermap.org/data/2.5/weather?q=${city.cityname}&appid=72661ffab64a1aafda764b3cbfdf3ec3
+https://api.openweathermap.org/data/2.5/weather?q=nagpur&appid=72661ffab64a1aafda764b3cbfdf3ec3
+
+https://api.openweathermap.org/data/2.5/weather?q=1008&appid=72661ffab64a1aafda764b3cbfdf3ec3
+
+https://openweathermap.org/img/wn/${item.weather[0].icon}@2x.png
+https://api.openweathermap.org/data/2.5/weather?q=${CITY_NAME}&units=${UNIT}&appid=${API_KEY}
+        );
+
+{"coord":{"lon":77.2167,"lat":28.6667},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"base":"stations","main":{"temp":302.2,"feels_like":
+304.43,"temp_min":302.2,"temp_max":302.2,"pressure":1011,"humidity":61,"sea_level":1011,"grnd_level":986},"visibility":1800,"wind":{"speed":1.54,"deg":90},"clouds":
+{"all":0},"dt":1730007732,"sys":{"type":1,"id":9165,"country":"IN","sunrise":1729990778,"sunset":1730031007},"timezone":19800,"id":1273294,"name":"Delhi","cod":200}
+
+https://fakestoreapi.com/products
+https://fakestoreapi.com/products/11
+
+-----
+https://dummyjson.com/products
+https://dummyjson.com/products/11
+
+------------------------------------------------------------------
+
+https://www.themoviedb.org/
+
